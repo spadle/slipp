@@ -2,6 +2,11 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.slipp</groupId>
   <artifactId>qna</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>war</packaging>
+  
+<properties>
+    <maven.compiler.source>1.7</maven.compiler.source>
+    <maven.compiler.target>1.7</maven.compiler.target>
+</properties>
 </project>
